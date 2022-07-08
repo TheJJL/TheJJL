@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me 🙋🏻‍♂️ 🚀
 - 🎓 I’m studying electronic engineering at Universidad del Valle.
-- 🌱 I’m currently learning about control systems, comunication systems, AI, data science and web development.
+- 🌱 I’m currently learning about control systems, comunication systems, AI, data Science, data analytics and data engineering.
 
 ## Tech Stack 🛠
 - 💻 Python | C | Matlab | VHDL | HTML | CSS | JavaScript | SQL
