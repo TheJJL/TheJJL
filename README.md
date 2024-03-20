@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
 # Hi, I’m Juan 👋🏻
 
 ## About Me 🙋🏻‍♂️ 🚀
-- 🎓 I’m studying electronic engineering at Universidad del Valle.
+- 🎓 I’m an electronic engineer from Universidad del Valle.
 - 🌱 I’m currently learning about control systems, comunication systems, AI, data Science, data analytics and data engineering.
 
 ## Tech Stack 🛠
-- 💻 Python | C | Matlab | VHDL | HTML | CSS | JavaScript | SQL
+- 💻 Python | C | Matlab | VHDL | SQL | PowerBI
 
