@@ -7,8 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me 🙋🏻‍♂️ 🚀
 - 🎓 I’m an electronics engineer from Universidad del Valle.
-- 🌱 I’m currently learning about control systems, comunication systems, AI, data Science, data analytics and data engineering.
+- 🌱 I’m currently learning about AI, data Science, data analytics and data engineering.
 
 ## Tech Stack 🛠
-- 💻 Python | C | Matlab | VHDL | SQL | PowerBI
+- 💻 Python | SQL | PowerBI
 
